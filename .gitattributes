@@ -1,2 +1,4 @@
 *.html linguist-language=Java
 *.jsp linguist-language=Java
+*.css linguist-vendored
+*.js linguist-vendored
