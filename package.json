@@ -1,0 +1,17 @@
+{
+  "name": "java-jsp-web-app",
+  "version": "1.0.0",
+  "description": "A simple java web application using old school jsp and servlets",
+  "main": "HomeController",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  },
+  "devDependencies": {
+    "prettier-plugin-java": "^2.5.0"
+  }
+}
